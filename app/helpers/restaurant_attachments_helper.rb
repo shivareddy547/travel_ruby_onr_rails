@@ -1,0 +1,2 @@
+module RestaurantAttachmentsHelper
+end

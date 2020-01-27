@@ -1,0 +1,53 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  name: MyString
+  short_name: MyString
+  description: MyText
+  short_description: MyText
+  video_url: MyString
+  operating_hours: MyString
+  opening_time: 2020-01-23 08:59:20
+  closing_time: 2020-01-23 08:59:20
+  location_name: MyString
+  address: MyText
+  latitude: 9.99
+  longitude: 9.99
+  extra_tips: MyString
+  is_free: false
+  morning_ok: false
+  afternoon_ok: false
+  evening_ok: false
+  midnight_ok: false
+  adult_price: 1.5
+  senior_price: 1.5
+  child_price: 1.5
+  city: MyString
+  phone_number: MyString
+  category_ids: MyText
+
+two:
+  name: MyString
+  short_name: MyString
+  description: MyText
+  short_description: MyText
+  video_url: MyString
+  operating_hours: MyString
+  opening_time: 2020-01-23 08:59:20
+  closing_time: 2020-01-23 08:59:20
+  location_name: MyString
+  address: MyText
+  latitude: 9.99
+  longitude: 9.99
+  extra_tips: MyString
+  is_free: false
+  morning_ok: false
+  afternoon_ok: false
+  evening_ok: false
+  midnight_ok: false
+  adult_price: 1.5
+  senior_price: 1.5
+  child_price: 1.5
+  city: MyString
+  phone_number: MyString
+  category_ids: MyText
